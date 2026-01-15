@@ -1,0 +1,13 @@
+I have an OrangePi RV2 with a RISC-V Ky X1 processor (I believe it's a rebranded SpacemiT K1).
+This architecture doesn't have a lot of application images, so I'll be building them myself.
+
+Wishlist:
+
+- [ ] ArchiveBox
+- [ ] Navidrome
+- [ ] slskd
+- [ ] Syncthing
+- [ ] Transmission
+- [ ] Xandikos
+- [ ] Immich
+- [ ] Jellyfin (probably not possible for now)
