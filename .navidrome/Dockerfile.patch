@@ -19,7 +19,7 @@
 <     DOWNLOAD_URL=${CROSS_TAGLIB_RELEASES_URL}${FILE}
 <     wget ${DOWNLOAD_URL}
 ---
-> COPY ../.navidrome/taglib*.tar.gz .
+> RUN wget https://raw.githubusercontent.com/gechandesu/rv64-container/refs/heads/master/.navidrome/taglib-2.1.1-riscv64.tar.gz
 43,45c33
 <     mkdir /taglib
 <     tar -xzf ${FILE} -C /taglib
